@@ -1,5 +1,5 @@
 ---
-name: ian-xiaohei-illustrations
+name: kero-illustrations
 description: 生成 Kero 风格的中文正文配图。用于用户要求为中文文章、帖子、博客、Notion 文档、工作流文档、方法论、流程、结构、状态、隐喻或观点生成配图。
 ---
 
